@@ -1,0 +1,8 @@
+# Ignore le fichier des secrets
+.env
+
+# Ignore les fichiers de log (optionnel)
+*.log
+
+# Ignore le dossier node_modules (si tu en as un)
+node_modules/
